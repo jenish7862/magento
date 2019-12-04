@@ -1,0 +1,24 @@
+{
+    "name": "lumbrales-software/magento2-first-module",
+    "description": "Hello world Magento 2 Composer Module!",
+    "require": {
+        "magento/project-community-edition": "*"
+    },
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Kgkrunch/Magentocomposer/"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "Jenish Patel",
+            "homepage": "http://kgkrunch.com/",
+            "role": "Developer"
+        }
+    ]
+}

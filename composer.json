@@ -1,5 +1,5 @@
 {
-    "name": "lumbrales-software/magento2-first-module",
+    "name": "kgrunch-software/magento2-first-module",
     "description": "Hello world Magento 2 Composer Module!",
     "require": {
         "magento/project-community-edition": "*"

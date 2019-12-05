@@ -20,5 +20,12 @@
             "homepage": "http://kgkrunch.com/",
             "role": "Developer"
         }
-    ]
+    ],
+    "repositories": [
+   {
+     "type": "vcs",
+     "url": "https://github.com/jenish7862/magento"
+   }
+ ],
+    
 }

@@ -1,0 +1,31 @@
+{
+    "name": "kgrunch-software/magento2-first-module",
+    "description": "Hello world Magento 2 Composer Module!",
+    "require": {
+        "magento/project-community-edition": "*"
+    },
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Kgkrunch/Finance/"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "Jenish Patel",
+            "homepage": "http://kgkrunch.com/",
+            "role": "Developer"
+        }
+    ],
+    "repositories": [
+   {
+     "type": "vcs",
+     "url": "https://github.com/jenish7862/magento"
+   }
+ ],
+    
+}
